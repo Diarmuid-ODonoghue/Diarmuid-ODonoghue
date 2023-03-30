@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Diarmuid O'Donoghue from Maynooth Univeristy, Ireland.
+- 👋 Hi, I’m Dr @Diarmuid O'Donoghue from Maynooth Univeristy, Ireland.
 - 👀 I’m interested in cognitively inspired computing, analogical reasoning and conceptual blending, computational creativity.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ... detecting novel analogies between texts. Generating/creating and evaluating any resulting inferences.
