@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ... detecting novel analogies between texts. Generating/creating and evaluating any resulting comparisons and their inferences.
 - 📫 How to reach me [www.cs.nuim.ie/~dod](https://www.cs.nuim.ie/~dod/)
-- My repositories only share Major updates and implementation changes.
+- This public repo shares major updates and significant implementation changes.
 - I also fork a few respoitories from my students.
 #maynooth-university #Maynooth
 <!---
